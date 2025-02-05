@@ -1,0 +1,21 @@
+{
+    "titlePage": {
+      "login": "Einloggen",
+      "join with email": "Treten Sie per E-Mail bei",
+      "have an account?": "Haben Sie ein Konto?",
+      "slides": {
+        "slide1": {
+          "header": "Unübertroffene Transparenz",
+          "body": "Spenden kommen zu 100 % beim Empfänger an. "
+        },
+        "slide2": {
+          "header": "Direkt \n ",
+          "body": "Verbinden Sie Spender, um Leben zu verändern. "
+        },
+        "slide3": {
+          "header": "Lebensverändernde Verbindungen.",
+          "body": "Überbrücken Sie die Kluft zwischen Spendern und schutzbedürftigen Personen. "
+        }
+      }
+    }
+  }

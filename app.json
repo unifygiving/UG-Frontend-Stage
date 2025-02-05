@@ -1,0 +1,100 @@
+{
+  "expo": {
+    "name": "Unify Giving",
+    "slug": "unify-giving-v1",
+    "version": "1.0.15",
+    "orientation": "portrait",
+    "icon": "./assets/logo/UnifyLogo5.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo/New_Logo/Logo_White_BG_Horizontal.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF",
+      "width": 130,
+      "height": 60,
+      "alignContent": "center"
+    },
+    "scheme": "ug",
+    "plugins": [
+      [
+        "expo-barcode-scanner",
+        {
+          "cameraPermission": "Allow unify-giving-v1 to access camera."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them with your friends."
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow unify-giving-v1 to access your camera"
+        }
+      ],
+      "expo-font",
+      "expo-secure-store",
+      [
+        "expo-tracking-transparency",
+        {
+          "useTrackingPermission": "This identifier will be required to personailzed the app for you"
+        }
+      ]
+    ],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.unifygiving.unifygiving",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Allow unify-giving-v1 to access your camera"
+      },
+      "associatedDomains": [
+        "applinks:unifygiving.com"
+      ],
+      "config": {
+        "useNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.UnifyGiving.unifygivingv1",
+      "softwareKeyboardLayoutMode": "pan",
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "autoVerify": true,
+          "data": [
+            {
+              "scheme": "https",
+              "host": "*.unifygiving.com",
+              "pathPrefix": "/recipient"
+            }
+          ],
+          "category": [
+            "BROWSABLE",
+            "DEFAULT"
+          ]
+        }
+      ],
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f7a6bd05-6548-49fc-86a9-5623de9d9cb8"
+      }
+    },
+    "owner": "unify-giving"
+  }
+}

@@ -1,0 +1,451 @@
+{
+  //Start of Navigation Stack Routes
+  "onboardingRoutes": {
+    "loginPageHeader": "Login to Unify",
+    "registrationPageHeader": "Register to Unify",
+    "resetPassword": "Reset Password"
+  },
+
+  "donorUserRoutes": {
+    "donorHomeBottomTabLabel": "Home",
+    "impactBottomTabLabel": "Impact",
+    "donationStartPageHeader": "Donate",
+    "donationStartBottomTabLabel": "Donate",
+    "donationHistoryBottomTabLabel": "My Donations",
+    "donationHistoryPageHeader": "My Donations",
+    "donorProfileBottomTabLabel": "Account",
+    "donationHomePageHeader": "Beneficiary",
+    "initalPaymentMethodPageHeader": "Donate",
+    "donationSummaryPageHeader": "Donation Summary",
+    "listOfCharitiesPageHeader": "Charities",
+    "addCardDetailsPageHeader": "Enter Card Details",
+    "howItWorksPageHeader": "How it works"
+  },
+
+  "charityRoutes": {
+    "charityRecipientsHomeBottomTabLabel": "Beneficiaries",
+    "addRecipientBottomTabLabel": "Add Beneficiary",
+    "addRecipientPageHeader": "Add Beneficiary",
+    "reviewNewRecipientPageHeader": "Review Beneficiary",
+    "editRecipientPageHeader": "Edit Beneficiary",
+    "charityProfileBottomTabLabel": "Account"
+  },
+
+  "recipientRoutes": {
+    "homePageHeader": "Home",
+    "homePageTabLabel": "Home",
+    "supportersPageHeader": "Supporters",
+    "supportersTabLabel": "Supporters",
+    "profileTabLabel": "Profile"
+  },
+
+  "businessUserRoutes": {
+
+  },
+  //End of Navigation Stack Routes
+
+  //Start of Onboarding Pages
+  "titlePage": {
+    "loginBtnText": "Log in",
+    "registerBtnText": "Join with Email",
+    "hasAccountQuestion": "Have an account?",
+    "slides": {
+      "slide1": {
+        "header": "Unmatched\ntransparency.",
+        "body": "100% donations reach recipients. \n Verified spending on essential goods. \n Trust built through transparent profiles \n and restricted payment cards."
+      },
+      "slide2": {
+        "header": "Direct\nimpact.",
+        "body": "Connect donors to change lives. \n Secure partnerships with local \n charities ensure tangible difference in \n the lives of those in need."
+      },
+      "slide3": {
+        "header": "Life changing\nconnections.",
+        "body": "Bridge the gap between donors and \n vulnerable individuals. Directly impact \n lives through secure profiles and \n restricted payment cards."
+      }
+    }
+  },
+
+  "loginPage": {
+    "emailHeader": "Email",
+    "email_toolkit": "Enter your email address",
+    "passwordHeader": "Password",
+    "password_toolkit": "Enter your password",
+    "newAccountBtn": "Create a new account?",
+    "nonExistingAccountMessage": "We didn’t recognize this email.",
+    "loginBtnText": "Login",
+    "invalidPassword": "Invalid password",
+    "forgottenPassword": "Forgot Password?"
+  },
+
+  "registerPage": {
+    "firstname": "First Name",
+    "firstname_tooltip": "Enter Your first name",
+    "lastname": "Last Name",
+    "lastname_tooltip": "Enter Your last name",
+    "city": "City",
+    "city_tooltip": "Enter your city",
+    "country": "Country",
+    "country_tooltip": "Enter your Country",
+    "email": "Email",
+    "email_tooltip": "Enter your email",
+    "password": "Password",
+    "password_tooltip": "Enter your password",
+    "agree_t&c": "By creating this account, you agree to our",
+    "t&c": "Terms and Conditions",
+    "register": "Register"
+  },
+
+  "registerEmailConfirmation": {
+    "title": "We've sent you\n an email",
+    "message": "We’ve sent you a link which will bring you\n right back to the app. Make sure you open\n your email on your phone.",
+    "mainButtonText": "Open email app",
+    "resendButtonText": "Resend email",
+    "resendingEmailText": "Verification email link resent!"
+  },
+
+  "loginResetPassword": {
+    "emailHeader": "Email",
+    "createAccountBtnLabel": "Create a new account?",
+    "resetPasswordBtnLabel": "Reset Password"
+  },
+  //End of Onboarding Pages
+
+  //Start of Donor User Pages
+  "donorHome": {
+    "donateButton": "Donate Now",
+    "showAllButton": "Show all",
+    "titleMessage": "Your generosity can make a real difference of the lives of individuals experiencing homelessness.",
+    "recipientTitle": "Recipient",
+    "charityTitle": "Charities",
+    "charitySubtitle": "We partner with local charities to connect you directly to the individuals they support.",
+    "howItWorks": "How it works",
+    "howItWorksContent": "Unify Giving committed to making the best experience of act of giving from end to end.",
+    "showMoreButton": "Show More",
+    "hello": "Hello",
+    "helloMessage": "Make a direct impact on those in need.",
+    "recipientListHeader": "Beneficiaries"
+  },
+
+  "charityList": {
+    "searchBar_ToolTip": "Search",
+    "visitBtnLabel": "Visit",
+    "messageLabel": "Check out some of the great work of our trusted charity partners."
+  },
+
+  "charityLookupRoutes": {
+    "aboutTitle": "About",
+    "recipientsTitle": "Beneficiaries"
+  },
+
+  "aboutCharityPage": {
+    "charityWebsiteHeader": "Website",
+    "charityAddressHeader": "Address"
+  },
+
+  "donorCharityRecipientsPage": {
+    "donateButton": "Donate"
+  },
+
+  "donationRecipientsList": {
+    "findButton": "Scan QR card",
+    "donateButton": "Donate",
+    "instruction": "Either donate by scanning the QR card of a beneficiary on the street or choose a profile below.",
+    "filterTitle": "Filters",
+    "location": "Location",
+    "age": "Age",
+    "applyBtnLabel": "Apply"
+  },
+
+  "donationReviewPage": {
+    "shareLabel": "Share",
+    "shareMessage": "Hello from Unify Giving. I just donated to help someone move forward!",
+    "recipientLabel": "Beneficiary",
+    "transferFeesLabel": "Transfer Fees",
+    "fees1Label": "Direct Donation",
+    "fees2Label": "Unify Giving Operating Fees (7%)",
+    "fees3Label": "Stripe Processing Cost",
+    "totalCostLabel": "Total Cost",
+    "writeMessageLabel": "Write Message (Optional)",
+    "writeMessage_ToolTip": "Write some words of encouragement",
+    "supportText": "We ensure that beneficiaries receive 100% of your donation. Please consider adding an optional support fee to your donation to help us help more individuals experiencing homelessness.",
+    "addSupportLabel": "Add Support",
+    "customAmount_ToolTip": "Enter custom amount",
+    "selectCardHeader": "Select Card",
+    "donateBtnLabel": "Donate",
+    "donationSuccessfulHeader": "THANK YOU!",
+    "donationSuccessMessage": "Your impact matters. Let's\nchange people's lives by sharing\nwith your friends.",
+    "homeBtnLabel": "Continue",
+    "supportHeaderLabel": "Support Unify Giving"
+  },
+
+  "donationCompletePage":{
+    "shareLabel": "Share",
+    "shareMessage": "Hello from Unify Giving. I just donated to help someone move forward!",
+    "recipientLabel": "Beneficiary",
+    "transferFeesLabel": "Transfer Fees",
+    "fees1Label": "Direct Donation",
+    "fees2Label": "Unify Giving Operating Fees (7%)",
+    "fees3Label": "Stripe Processing Cost",
+    "totalCostLabel": "Total Cost",
+    "writeMessageLabel": "Write Message (Optional)",
+    "writeMessage_ToolTip": "Write some words of encouragement",
+    "supportText": "We ensure that beneficiaries receive 100% of your donation. Please consider adding an optional support fee to your donation to help us help more individuals experiencing homelessness.",
+    "addSupportLabel": "Add Support",
+    "customAmount_ToolTip": "Enter custom amount",
+    "selectCardHeader": "Select Card",
+    "donateBtnLabel": "Donate",
+    "donationSuccessfulHeader": "THANK YOU!",
+    "donationSuccessMessage": "Your impact matters. Let's\nchange people's lives by sharing\nwith your friends.",
+    "homeBtnLabel": "Continue",
+    "supportHeaderLabel": "Support Unify Giving"
+  },
+
+  "donationHome": {
+    "monthly": "Monthly",
+    "single": "Single",
+    "custom": "Custom",
+    "custom_tooltip": "Insert your amount",
+    "anonymousCheckbox": "Donate Anonymous",
+    "charityPartner": "Charity Partner",
+    "visitBtnLabel": "Visit",
+    "allDonors": "See all donors",
+    "howItWorks": "How it works",
+    "donateBtnLabel": "Donate"
+  },
+
+  "donationPaymentMethod": {
+    "paymentMethodHeader": "Select Payment Method",
+    "addNewCardHeader": "Add new card",
+    "termsAndConditionsText": "By adding this card you agree to our",
+    "termsAndConditionsLink": "terms and conditions",
+    "continueBtnLabel": "Continue"
+  },
+
+  "donationMessages": {
+    "RecipientSearchBtnLabel": "Find me a beneficiary",
+    "instructions": "To donate you can directly tap your phone to recipient card on the street or choose a profile.",
+    "donateBtnLabel": "Donate",
+    "applyBtnLabel": "Apply"
+  },
+
+  "donationAddPaymentCardForm": {
+    "cardNumberLabel": "Card Number",
+    "cardNumber_ToolTip": "Enter your Card Number",
+    "cardHolderNameLabel": "Card Holder Name",
+    "cardHolderName_ToolTip": "Enter the Card Holder Name",
+    "expiryDataLabel": "Exp. Date",
+    "cvvLabel": "CVV",
+    "continueBtnLabel": "Continue"
+  },
+
+  "Impact": {
+    "amountOfCharitiesHeader": "charity partners around the ",
+    "countryChoice": "Select Country",
+    "beneficiariesCountTitle": "Number of Beneficiaries",
+    "imageMessage1": "Your donation can bring hope ",
+    "imageMessage2": "and change to the lives of homeless individuals, providing them with shelter, food, and support on their path to a brighter future.",
+    "witnessTitle": "Witness positive change",
+    "witnessMessage": "Easily track your contributions and see the impact you have made.",
+    "contributionTitle": "Contributed This Month",
+    "ReoccurringTitle": "Recurring Donations",
+    "btnDonateTitle": "Donate Now",
+    "btnContinueTitle":  "Continue"
+  },
+  //End of Donor User Pages
+
+  //Start of Charity User Pages
+  "charityUserRecipientUsersList": {
+    "editProfileBtnLabel": "Edit Profile",
+    "userGreetingLabel": "Hello {{name}}",
+    "userGreetingText": "Welcome back, lets start making a difference today!",
+    "recipientsHeader": "Beneficiaries"
+  },
+
+  "charityRecipientProfileSetup": {
+    "firstNameLabel": "First Name",
+    "firstName_ToolTip": "Enter Beneficiary's first name",
+    "lastNameLabel": "Last Name",
+    "lastName_ToolTip": "Enter Beneficiary's last name",
+    "emailLabel": "Email",
+    "email_ToolTip": "Enter Beneficiary's email",
+    "passwordLabel": "Password",
+    "password_ToolTip": "Enter Beneficiary's password",
+    "confirmPasswordLabel": "Confirm Beneficiary's Password",
+    "confirmPassword_ToolTip": "Please confirm Beneficiary's password ",
+    "cityLabel": "City",
+    "city_ToolTip": "Enter Beneficiary's city",
+    "countryLabel": "Country",
+    "country_ToolTip": "Enter Beneficiary's country",
+    "storyLabel": "How do you want Unify Giving to help you?",
+    "story_ToolTip": "Write the Beneficiary's story",
+    "dob": "Date of Birth",
+    "dob_ToolTip": "Enter Beneficiary's Date of Birth YYYY/MM/DD",
+    "saveBtnLabel": "Save",
+    "saveBtnStatusLabel": "Saving...",
+    "previewBtnLabel": "Preview",
+    "updateFailedMessage": "Updating the Beneficiary Failed.",
+    "btnRetry": "Retry",
+    "failTitle": "Update failed",
+    "updateSuccessfulMessage": "Updating the Beneficiary info was successful",
+    "btnHome": "Home",
+    "successTitle": "Update Successful",
+    "imagesPermissionWarning": "Permission to access media library is required!"
+  },
+
+  "reviewNewRecipient": {
+    "addRecipientButton": "Add Beneficiary",
+    "storyHeader": "Story",
+    "btnHome": "Home",
+    "addedSuccessfullyMsg": "Beneficiary added successfully",
+    "successTitle": "Beneficiary Added",
+    "btnEdit": "Edit",
+    "failedMsg": "Creating new beneficiary failed.",
+    "joinedCharityMsg": "I joined this charity 3 years ago."
+  },
+  //End of Charity User Pages
+
+  //Start of Recipient User Pages
+  "recipientHomePage": {
+    "balanceLabel": "Balance",
+    "transactionsLabel": "Transactions"
+  },
+  "recipientSupportersPage": {
+
+  },
+  //End of Recipient User Pages
+
+  //Start of Account Profile Pages
+  "aboutUnifyPage": {
+    "aboutText1": "The Unify Giving (UG) app empowers homeless individuals to receive and spend donations in a safe and effective way.",
+    "aboutText2": "Charity partners set up unique UG profiles for the homeless individuals they support and provide them with a restricted use UG payment card.",
+    "aboutText3":  "Donors can open the UG app to donate to any certified and registered homeless individual, any time. If donors see a homeless individual supported by UG on the street, they can scan the QR card through the app to donate money directly to that individual.",
+    "transparancyText": "Unmatched transparency"
+  },
+
+  "changePasswordPage": {
+    "oldPasswordLabel": "Old Password",
+    "oldPassword_ToolTip": "Enter your password",
+    "invalidPasswordError": "Invalid Password",
+    "newPasswordLabel": "New Password",
+    "newPassword_ToolTip": "Enter your new password",
+    "confirmNewPasswordLabel": "Confirm New Password",
+    "confirmNewPassword_ToolTip": "Re-enter your new password",
+    "passwordsNotMatchingError": "Passwords do not match",
+    "savebtnLabel": "Save",
+    "passwordRequired": "Please enter the current password",
+    "passwordMinNotMet": "Minimum 8 characters for the password",
+    "passwordMaxReached": "Maximum 30 characters for the password",
+    "newPasswordRequired": "Please enter the new password",
+    "newPasswordMinNotMet": "Minimum 8 characters for the password",
+    "newPasswordMaxReached": "Maximum 30 characters for the password",
+    "newPasswordNotMatch": "Passwords do not match",
+    "updatePasswordSuccessMessage": "Password Updated Successfully",
+    "updatePasswordSuccessModalTitle": "Success",
+    "updatePasswordSuccessButtonText": "Done",
+    "updatePasswordFailedModalTitle": "Error",
+    "updatePasswordFailedButtonText": "Retry"
+  },
+
+  "accountIndexOptionsPage": {
+    "settingsBtnLabel": "Settings",
+    "aboutUnifyGivingBtnLabel": "About Unify Giving",
+    "termsAndConditionsBtnLabel": "Terms and Conditions",
+    "helpAndSupportBtnLabel": "Help & Support",
+    "contactUsBtnLabel": "Contact Us",
+    "logOutBtnLabel": "Log Out"
+  },
+
+  "privacySettings": {
+    "notificationBtnLabel": "Notifications",
+    "anonymousDonationsBtnLabel": "Make donations anonymously",
+    "hidePhotoBtnLabel": "Hide profile photo",
+    "hideLocationBtnLabel": "Hide location",
+    "saveBtnLabel": "Save"
+  },
+
+  "accountSettingsPage": {
+    "editAccountBtnLabel": "Edit Account",
+    "privacyBtnLabel": "Privacy",
+    "changePasswordBtnLabel": "Change password",
+    "deleteAccountBtnLabel": "Delete Account",
+    "logOutBtnLabel": "Log Out"
+  },
+
+  "deleteAccount": {
+    "deletionValidationHeader": "Deleting your account will:",
+    "warning1": "Delete your account info",
+    "warning2": "Delete your profile photo",
+    "warning3": "Delete your data from Unify Giving",
+    "warning4": "Delete your donation history",
+    "passwordHeader": "Enter your Password",
+    "password_ToolTip": "Enter your password to confirm",
+    "confirmPasswordHeader": "Confirm Password",
+    "confirmPassword_ToolTip": "Re-enter your password",
+    "passwordError": "Password not match",
+    "deleteAccountBtnLabel": "Delete My Account",
+    "cancelBtnLabel": "Cancel"
+  },
+
+  "confirmationModal": {
+    "confirmAccountDeletionHeader": "Confirm account deletion",
+    "confirmAccountDeleteMessage": "Are you sure that you would like to delete your account? This action cannot be undone",
+    "logoutConfirmHeader": "Confirm Log Out",
+    "logoutConfirmMessage": "Are you sure that you want to log out?",
+    "cancelBtnLabel": "Cancel",
+    "deleteBtnLabel": "Delete",
+    "logOutBtnLabel": "Log Out"
+  },
+
+  "editUserAccount": {
+    "firstNameHeader": "First Name",
+    "lastNameHeader": "Last Name",
+    "emailHeader": "Email",
+    "emailError": "This email is already in use.",
+    "confirmEmailHeader": "Confirm Email",
+    "confirmEmailError": "Emails do not match",
+    "cityHeader": "City",
+    "countryHeader": "Country",
+    "saveBtnLabel": "Save",
+    "btnSuccess": "Back to Home",
+    "successTitle": "Successful",
+    "updateSuccessfulMessage": "You have successfully\nchanged your password.",
+    "btnRetry": "Try Again",
+    "failTitle": "Error",
+    "updateFailedMessage": "Your changes did not save. Please try again."
+  },
+  //End of Account Profile Pages
+
+  //Start of Global Pages
+  "howItWorks": {
+    "header": "How it works",
+    "slides": {
+      "slide1": {
+        "header": "Effortless\ndonations",
+        "body": "With just a few taps, you can make a \n meaningful difference to individuals \n experiencing homelessness."
+      },
+      "slide2": {
+        "header": "Secure\nprocessing",
+        "body": "Our trusted banking partner securely \n processes the donations and swiftly \n channels to those experiencing \n homelessness."
+      },
+      "slide3": {
+        "header": "Responsible\nmonitoring",
+        "body": "Unify cards are exclusively \n designed for purchasing \n essential goods and services, \n ensuring responsible spending."
+      }
+    }
+  },
+  //End of Global Pages
+
+  //Start of Business Pages
+  "businessHome": {
+    "transactionAmountHeader": "Input Purchase Total",
+    "posTransactionHeader": "Input POS Transation Number",
+    "newSaleButtonText": "Add New Sale"
+
+  },
+  //End of Business Pages
+
+  "webCheckout": {
+    "donateButton": "Donate",
+    "creatingDonation": "...Creating Donation..."
+  }
+}

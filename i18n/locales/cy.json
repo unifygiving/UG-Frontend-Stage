@@ -1,0 +1,358 @@
+{
+    "onboardingRoutes": {
+      "loginPageHeader": "Mewngofnodi i Unify",
+      "registrationPageHeader": "Cofrestrwch i Unify",
+      "resetPassword": "Ailosod Cyfrinair"
+    },
+  
+    "donorUserRoutes": {
+      "donorHomeBottomTabLabel": "Cartref",
+      "impactBottomTabLabel": "Effaith",
+      "donationStartPageHeader": "Rhoddwch",
+      "donationStartBottomTabLabel": "Rhoddwch",
+      "donationHistoryBottomTabLabel": "Fy Rhoddion",
+      "donationHistoryPageHeader": "Fy Rhoddion",
+      "donorProfileBottomTabLabel": "Cyfrif",
+      "donationHomePageHeader": "Buddiolwr",
+      "initalPaymentMethodPageHeader": "Rhoddwch",
+      "donationSummaryPageHeader": "Crynodeb Rhodd",
+      "listOfCharitiesPageHeader": "Elusennau",
+      "addCardDetailsPageHeader": "Rhowch fanylion y cerdyn",
+      "howItWorksPageHeader": "Sut mae'n gweithio"
+    },
+  
+    "charityRoutes": {
+      "charityRecipientsHomeBottomTabLabel": "Buddiolwyr",
+      "addRecipientBottomTabLabel": "Ychwanegu Buddiolwr",
+      "addRecipientPageHeader": "Ychwanegu Buddiolwr",
+      "reviewNewRecipientPageHeader": "Buddiolwr Adolygu",
+      "editRecipientPageHeader": "Golygu Buddiolwr",
+      "charityProfileBottomTabLabel": "Cyfrif"
+    },
+  
+    "recipientRoutes": {
+      "homePageHeader": "Cartref",
+      "homePageTabLabel": "Cartref",
+      "supportersPageHeader": "Cefnogwyr",
+      "supportersTabLabel": "Cefnogwyr",
+      "profileTabLabel": "Proffil"
+    },
+  
+    "businessUserRoutes": {
+  
+    },
+
+    "titlePage": {
+      "loginBtnText": "Mewngofnodi",
+      "registerBtnText": "Ymunwch ag E-bost",
+      "hasAccountQuestion": "Oes gennych chi gyfrif?",
+      "slides": {
+        "slide1": {
+          "header": "Heb ei gyfateb\ntryloywder.",
+          "body": "Mae rhoddion 100% yn cyrraedd y derbynwyr. \n Gwariant wedi'i ddilysu ar nwyddau hanfodol. \n Ymddiriedolaeth wedi'i hadeiladu trwy broffiliau tryloyw \n a chardiau talu cyfyngedig."
+        },
+        "slide2": {
+          "header": "Uniongyrchol\neffaith.",
+          "body": "Cysylltu rhoddwyr i newid bywydau. \n Sicrhau partneriaethau gyda lleol \n elusennau yn sicrhau gwahaniaeth diriaethol yn \n bywydau’r rhai sydd mewn angen."
+        },
+        "slide3": {
+          "header": "Newid bywyd\ncysylltiadau.",
+          "body": "Pontio'r bwlch rhwng rhoddwyr a\n unigolion agored i niwed. Effaith uniongyrchol \n yn byw trwy broffiliau diogel a \n cardiau talu cyfyngedig."
+        }
+      }
+    },
+  
+    "loginPage": {
+      "emailHeader": "Ebost",
+      "email_toolkit": "Rhowch eich cyfeiriad e-bost",
+      "passwordHeader": "Cyfrinair",
+      "password_toolkit": "Rhowch eich cyfrinair",
+      "newAccountBtn": "Creu cyfrif newydd?",
+      "nonExistingAccountMessage": "Nid ydym wedi adnabod yr e-bost hwn.",
+      "loginBtnText": "Mewngofnodi",
+      "invalidPassword": "Cyfrinair annilys",
+      "forgottenPassword": "Wedi anghofio Cyfrinair?"
+    },
+  
+    "registerPage": {
+      "firstname": "Enw Cyntaf",
+      "firstname_tooltip": "Rhowch Eich enw cyntaf",
+      "lastname": "Enw olaf",
+      "lastname_tooltip": "Rhowch Eich enw olaf",
+      "city": "Dinas",
+      "city_tooltip": "Ewch i mewn i'ch dinas",
+      "country": "Gwlad",
+      "country_tooltip": "Ewch i mewn i'ch Gwlad",
+      "email": "Ebost",
+      "email_tooltip": "Rhowch eich e-bost",
+      "password": "Cyfrinair",
+      "password_tooltip": "Rhowch eich cyfrinair",
+      "agree_t&c": "Trwy greu'r cyfrif hwn, rydych chi'n cytuno i'n",
+      "t&c": "Telerau ac Amodau",
+      "register": "Cofrestrwch"
+    },
+  
+    "registerEmailConfirmation": {
+      "title": "Rydym wedi anfon atoch\n e-bost",
+      "message": "Rydym wedi anfon dolen atoch a fydd yn dod â chi\n yn ôl i'r app. Gwnewch yn siŵr eich bod yn agor\n eich e-bost ar eich ffôn.",
+      "mainButtonText": "Agor app e-bost",
+      "resendButtonText": "Ail-anfon e-bost"
+    },
+  
+    "loginResetPassword": {
+      "emailHeader": "Ebost",
+      "createAccountBtnLabel": "Creu cyfrif newydd?",
+      "resetPasswordBtnLabel": "Ailosod Cyfrinair"
+    },
+
+    "donorHome": {
+      "donateButton": "Cyfrannwch Nawr",
+      "showAllButton": "Dangoswch y cyfan",
+      "titleMessage": "Gall eich haelioni wneud gwahaniaeth gwirioneddol i fywydau pobl ddigartref.",
+      "recipientTitle": "Derbynnydd",
+      "charityTitle": "Elusennau",
+      "charitySubtitle": "Rydym yn partneru ag elusennau lleol i'ch cysylltu â'r rhai mewn angen.",
+      "howItWorks": "Sut mae'n gweithio",
+      "howItWorksContent": "Mae Unify Giving wedi ymrwymo i wneud y profiad gorau o weithred o roi o un pen i'r llall.",
+      "showMoreButton": "Dangos Mwy",
+      "hello": "Helo",
+      "helloMessage": "Diolch am eich cefnogaeth i helpu'r digartref.",
+      "recipientListHeader": "Buddiolwyr"
+    },
+  
+    "charityList": {
+      "searchBar_ToolTip": "Chwiliwch",
+      "visitBtnLabel": "Ymwelwch"
+    },
+  
+    "charityLookupRoutes": {
+      "aboutTitle": "Ynghylch",
+      "recipientsTitle": "Buddiolwyr"
+    },
+  
+    "aboutCharityPage": {
+      "charityWebsiteHeader": "Gwefan",
+      "charityAddressHeader": "Cyfeiriad"
+    },
+  
+    "donorCharityRecipientsPage": {
+      "donateButton": "Rhoddwch"
+    },
+  
+    "donationRecipientsList": {
+      "findButton": "Dewch o hyd i fuddiolwr i mi",
+      "donateButton": "Rhoddwch",
+      "instruction": "I gyfrannu gallwch chi dapio'ch ffôn yn uniongyrchol i gerdyn derbynnydd ar y stryd neu ddewis proffil.",
+      "filterTitle": "Hidlau",
+      "location": "Lleoliad",
+      "age": "Oed",
+      "applyBtnLabel": "Ymgeisiwch"
+    },
+  
+    "donationReviewPage": {
+      "shareLabel": "Rhannu",
+      "shareMessage": "Helo gan Unify Giving. Dwi newydd gyfrannu i helpu rhywun i symud ymlaen!",
+      "recipientLabel": "Buddiolwr",
+      "transferFeesLabel": "Ffioedd Trosglwyddo",
+      "fees1Label": "Rhodd uniongyrchol",
+      "fees2Label": "Ffioedd Gweithredu Unify Rhoi (5%)",
+      "fees3Label": "Cost Prosesu Talu",
+      "fees4Label": "Rhodd i Bartner Elusennol (2%)",
+      "totalCostLabel": "Cyfanswm y Gost",
+      "writeMessageLabel": "Ysgrifennu Neges",
+      "writeMessage_ToolTip": "Ysgrifennwch rai geiriau o anogaeth",
+      "supportText": "Ein cenhadaeth yw sicrhau bod buddiolwyr yn derbyn 100% o'ch rhodd. Er mwyn talu costau cardiau debyd derbynwyr a bandiau arddwrn RFID, ystyriwch ychwanegu ffi cymorth dewisol at eich rhodd.",
+      "addSupportLabel": "Ychwanegu Cefnogaeth",
+      "customAmount_ToolTip": "Rhowch swm personol",
+      "selectCardHeader": "Dewiswch Gerdyn",
+      "donateBtnLabel": "Rhoddwch",
+      "donationSuccessfulHeader": "LLWYDDIANNUS",
+      "donationSuccessMessage": "Diolch am fod yn anhygoel, dim ond gennych chi\n donated $10 to David and received 30\n Unify Credydau.",
+      "homeBtnLabel": "Cartref"
+    },
+  
+    "donationHome": {
+      "monthly": "Yn fisol",
+      "single": "Sengl",
+      "custom": "Custom",
+      "custom_tooltip": "Rhowch eich swm",
+      "anonymousCheckbox": "Cyfrannwch Anhysbys",
+      "charityPartner": "Partner Elusen",
+      "visitBtnLabel": "Ymwelwch",
+      "allDonors": "Gweler yr holl roddwyr",
+      "howItWorks": "Sut mae'n gweithio",
+      "donateBtnLabel": "Rhoddwch"
+    },
+  
+    "donationPaymentMethod": {
+      "paymentMethodHeader": "Dewiswch Dull Talu",
+      "addNewCardHeader": "Ychwanegu cerdyn newydd",
+      "termsAndConditionsText": "Trwy ychwanegu'r cerdyn hwn rydych yn cytuno i'n",
+      "termsAndConditionsLink": "telerau ac amodau",
+      "continueBtnLabel": "Parhewch"
+    },
+  
+    "donationMessages": {
+      "RecipientSearchBtnLabel": "Dewch o hyd i fuddiolwr i mi",
+      "instructions": "I gyfrannu gallwch chi dapio'ch ffôn yn uniongyrchol i gerdyn derbynnydd ar y stryd neu ddewis proffil.",
+      "donateBtnLabel": "Rhoddwch",
+      "applyBtnLabel": "Ymgeisiwch"
+    },
+  
+    "donationAddPaymentCardForm": {
+      "cardNumberLabel": "Rhif Cerdyn",
+      "cardNumber_ToolTip": "Rhowch eich Rhif Cerdyn",
+      "cardHolderNameLabel": "Enw Deiliad y Cerdyn",
+      "cardHolderName_ToolTip": "Rhowch Enw Deiliad y Cerdyn",
+      "expiryDataLabel": "Dyddiad Dod i Ben",
+      "cvvLabel": "CVV",
+      "continueBtnLabel": "Parhewch"
+    },
+
+    "charityUserRecipientUsersList": {
+      "editProfileBtnLabel": "Golygu Proffil",
+      "userGreetingLabel": "Helo {{name}}",
+      "userGreetingText": "Croeso yn ôl, gadewch i ni ddechrau gwneud gwahaniaeth heddiw!",
+      "recipientsHeader": "Buddiolwyr"
+    },
+  
+    "charityRecipientProfileSetup": {
+      "firstNameLabel": "Enw Cyntaf",
+      "firstName_ToolTip": "Rhowch enw cyntaf y buddiolwr",
+      "lastNameLabel": "Enw olaf",
+      "lastName_ToolTip": "Rhowch enw olaf y Buddiolwr",
+      "emailLabel": "Ebost",
+      "email_ToolTip": "Rhowch e-bost y buddiolwr",
+      "passwordLabel": "Cyfrinair",
+      "password_ToolTip": "Rhowch gyfrinair y buddiolwr",
+      "confirmPasswordLabel": "Cadarnhau Cyfrinair y Buddiolwr",
+      "confirmPassword_ToolTip": "Cadarnhewch gyfrinair y Buddiolwr",
+      "cityLabel": "Dinas",
+      "city_ToolTip": "Ewch i mewn i ddinas y buddiolwr",
+      "countryLabel": "Gwlad",
+      "country_ToolTip": "Ewch i mewn i wlad y Buddiolwr",
+      "storyLabel": "Stori",
+      "story_ToolTip": "Rhowch stori'r Buddiolwr",
+      "dob": "Dyddiad Geni",
+      "dob_ToolTip": "Nodwch Ddyddiad Geni'r Buddiolwr YYYY/MM/DD",
+      "saveBtnLabel": "Arbed",
+      "saveBtnStatusLabel": "Wrthi'n cadw...",
+      "previewBtnLabel": "Rhagolwg"
+    },
+  
+    "reviewNewRecipient": {
+      "addRecipientButton": "Ychwanegu Buddiolwr",
+      "storyHeader": "Stori"
+    },
+
+    "recipientHomePage": {
+      "balanceLabel": "Cydbwysedd",
+      "transactionsLabel": "Trafodion"
+    },
+    "recipientSupportersPage": {
+  
+    },
+
+    "aboutUnifyPage": {
+      "aboutText": "Mae ap Unify yn grymuso unigolion digartref i dderbyn a gwario rhoddion mewn ffordd ddiogel ac effeithiol. Mae partneriaid elusen yn sefydlu proffiliau unigryw ar gyfer pobl ddigartref ac yn darparu band arddwrn gwyrdd Unify RFID iddynt a cherdyn banc Unify defnydd cyfyngedig. Gall rhoddwyr agor ap Unify i roi i unrhyw unigolyn digartref cofrestredig unrhyw bryd. Os bydd rhoddwyr yn gweld unigolyn digartref yn gwisgo'r band arddwrn Unify, gallant dapio'r band arddwrn gyda ffôn clyfar i roi arian yn uniongyrchol i'r unigolyn hwnnw.",
+      "transparancyText": "Tryloywder heb ei ail"
+    },
+  
+    "changePasswordPage": {
+      "oldPasswordLabel": "Hen Gyfrinair",
+      "oldPassword_ToolTip": "Rhowch eich cyfrinair",
+      "invalidPasswordError": "Cyfrinair Annilys",
+      "newPasswordLabel": "Cyfrinair Newydd",
+      "newPassword_ToolTip": "Rhowch eich cyfrinair newydd",
+      "confirmNewPasswordLabel": "Cadarnhau Cyfrinair Newydd",
+      "confirmNewPassword_ToolTip": "Rhowch eich cyfrinair newydd eto",
+      "passwordsNotMatchingError": "Nid yw cyfrineiriau yn cyfateb",
+      "savebtnLabel": "Arbed"
+    },
+  
+    "accountIndexOptionsPage": {
+      "settingsBtnLabel": "Gosodiadau",
+      "aboutUnifyGivingBtnLabel": "Ynghylch Unify Giving",
+      "termsAndConditionsBtnLabel": "Telerau ac Amodau",
+      "helpAndSupportBtnLabel": "Cymorth a Chefnogaeth",
+      "contactUsBtnLabel": "Cysylltwch â Ni",
+      "logOutBtnLabel": "Allgofnodi"
+    },
+  
+    "privacySettings": {
+      "notificationBtnLabel": "Hysbysiadau",
+      "anonymousDonationsBtnLabel": "Gwneud rhoddion yn ddienw",
+      "hidePhotoBtnLabel": "Cuddio llun proffil",
+      "hideLocationBtnLabel": "Cuddio lleoliad",
+      "saveBtnLabel": "Arbed"
+    },
+  
+    "accountSettingsPage": {
+      "editAccountBtnLabel": "Golygu Cyfrif",
+      "privacyBtnLabel": "Preifatrwydd",
+      "changePasswordBtnLabel": "Newid cyfrinair",
+      "deleteAccountBtnLabel": "Dileu Cyfrif",
+      "logOutBtnLabel": "Allgofnodi"
+    },
+  
+    "deleteAccount": {
+      "deletionValidationHeader": "Bydd dileu eich cyfrif yn:",
+      "warning1": "Dileu gwybodaeth eich cyfrif",
+      "warning2": "Dileu eich llun proffil",
+      "warning3": "Dileu eich data o Unify Giving",
+      "warning4": "Dileu eich hanes rhoddion",
+      "passwordHeader": "Rhowch eich Cyfrinair",
+      "password_ToolTip": "Rhowch eich cyfrinair i gadarnhau",
+      "confirmPasswordHeader": "Cadarnhau Cyfrinair",
+      "confirmPassword_ToolTip": "Rhowch eich cyfrinair eto",
+      "passwordError": "Cyfrinair ddim yn cyfateb",
+      "deleteAccountBtnLabel": "Dileu Fy Nghyfrif",
+      "cancelBtnLabel": "Canslo"
+    },
+  
+    "confirmationModal": {
+      "confirmAccountDeletionHeader": "Cadarnhau dileu cyfrif",
+      "confirmAccountDeleteMessage": "A ydych yn siŵr yr hoffech ddileu eich cyfrif? Ni ellir dadwneud y weithred hon",
+      "logoutConfirmHeader": "Cadarnhau Allgofnodi",
+      "logoutConfirmMessage": "Ydych chi'n siŵr eich bod am allgofnodi?",
+      "cancelBtnLabel": "Canslo",
+      "deleteBtnLabel": "Dileu",
+      "logOutBtnLabel": "Allgofnodi"
+    },
+  
+    "editUserAccount": {
+      "firstNameHeader": "Enw Cyntaf",
+      "lastNameHeader": "Enw olaf",
+      "emailHeader": "Ebost",
+      "emailError": "Mae'r e-bost hwn eisoes yn cael ei ddefnyddio.",
+      "confirmEmailHeader": "Cadarnhau E-bost",
+      "confirmEmailError": "Nid yw e-byst yn cyfateb",
+      "locationHeader": "Lleoliad",
+      "saveBtnLabel": "Arbed"
+    },
+
+    "howItWorks": {
+      "header": "Sut mae'n gweithio",
+      "slides": {
+        "slide1": {
+          "header": "Yn ddiymdrech\nrhoddion",
+          "body": "Gyda dim ond ychydig o dapiau, gallwch chi wneud a\n gwahaniaeth ystyrlon i unigolion\n profi digartrefedd."
+        },
+        "slide2": {
+          "header": "Diogel\nprosesu",
+          "body": "Ein partner bancio dibynadwy yn ddiogel \n prosesu'r rhoddion ac yn gyflym \n sianeli i'r rhai sy'n profi \n digartrefedd."
+        },
+        "slide3": {
+          "header": "Cyfrifol\nmonitro",
+          "body": "Unify cardiau yn unig \n wedi'i gynllunio ar gyfer prynu \n nwyddau a gwasanaethau hanfodol, \n sicrhau gwariant cyfrifol."
+        }
+      }
+    },
+
+    "businessHome": {
+      "transactionAmountHeader": "Cyfanswm Prynu Mewnbwn",
+      "posTransactionHeader": "Mewnbwn Rhif Trawsnewid POS",
+      "newSaleButtonText": "Ychwanegu Gwerthiant Newydd"
+  
+    }
+  }

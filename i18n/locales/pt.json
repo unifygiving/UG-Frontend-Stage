@@ -1,0 +1,416 @@
+{
+  //Start of Navigation Stack Routes
+  "onboardingRoutes": {
+    "loginPageHeader": "Entrar no Unify",
+    "registrationPageHeader": "Registrar no Unify",
+    "resetPassword": "Redefinir Senha"
+  },
+
+  "donorUserRoutes": {
+    "donorHomeBottomTabLabel": "Início",
+    "impactBottomTabLabel": "Impacto",
+    "donationStartPageHeader": "Doar",
+    "donationStartBottomTabLabel": "Doar",
+    "donationHistoryBottomTabLabel": "Minhas Doações",
+    "donationHistoryPageHeader": "Minhas Doações",
+    "donorProfileBottomTabLabel": "Conta",
+    "donationHomePageHeader": "Beneficiário",
+    "initalPaymentMethodPageHeader": "Doar",
+    "donationSummaryPageHeader": "Resumo da Doação",
+    "listOfCharitiesPageHeader": "Instituições de Caridade",
+    "addCardDetailsPageHeader": "Insira os Detalhes do Cartão",
+    "howItWorksPageHeader": "Como funciona"
+  },
+
+  "charityRoutes": {
+    "charityRecipientsHomeBottomTabLabel": "Beneficiários",
+    "addRecipientBottomTabLabel": "Adicionar Beneficiário",
+    "addRecipientPageHeader": "Adicionar Beneficiário",
+    "reviewNewRecipientPageHeader": "Revisar Beneficiário",
+    "editRecipientPageHeader": "Editar Beneficiário",
+    "charityProfileBottomTabLabel": "Conta"
+  },
+
+  "recipientRoutes": {
+    "homePageHeader": "Início",
+    "homePageTabLabel": "Início",
+    "supportersPageHeader": "Apoiadores",
+    "supportersTabLabel": "Apoiadores",
+    "profileTabLabel": "Perfil"
+  },
+
+  "businessUserRoutes": {},
+
+  //End of Navigation Stack Routes
+
+  //Start of Onboarding Pages
+  "titlePage": {
+    "loginBtnText": "Entrar",
+    "registerBtnText": "Junte-se com Email",
+    "hasAccountQuestion": "Tem uma conta?",
+    "slides": {
+      "slide1": {
+        "header": "Transparência\nincomparável.",
+        "body": "100% das doações chegam aos destinatários. Gastos verificados com bens essenciais. Confiança construída através de perfis transparentes e cartões de pagamento restritos."
+      },
+      "slide2": {
+        "header": "Impacto\ndireto.",
+        "body": "Conecte doadores para mudar vidas. Parcerias seguras com instituições de caridade locais garantem uma diferença tangível na vida de quem precisa."
+      },
+      "slide3": {
+        "header": "Conexões que\nmudam vidas.",
+        "body": "Conecte doadores com indivíduos vulneráveis. Impacte vidas diretamente através de perfis seguros e cartões de pagamento restritos."
+      }
+    }
+  },
+
+  "loginPage": {
+    "emailHeader": "Email",
+    "email_toolkit": "Insira seu endereço de email",
+    "passwordHeader": "Senha",
+    "password_toolkit": "Insira sua senha",
+    "newAccountBtn": "Criar uma nova conta?",
+    "nonExistingAccountMessage": "Não reconhecemos esse email.",
+    "loginBtnText": "Entrar",
+    "invalidPassword": "Senha inválida",
+    "forgottenPassword": "Esqueceu a Senha?"
+  },
+
+  "registerPage": {
+    "firstname": "Primeiro Nome",
+    "firstname_tooltip": "Insira seu primeiro nome",
+    "lastname": "Último Nome",
+    "lastname_tooltip": "Insira seu último nome",
+    "city": "Cidade",
+    "city_tooltip": "Insira sua cidade",
+    "country": "País",
+    "country_tooltip": "Insira seu país",
+    "email": "Email",
+    "email_tooltip": "Insira seu email",
+    "password": "Senha",
+    "password_tooltip": "Insira sua senha",
+    "agree_t&c": "Ao criar esta conta, você concorda com nossos",
+    "t&c": "Termos e Condições",
+    "register": "Registrar"
+  },
+
+  "registerEmailConfirmation": {
+    "title": "Enviamos um\nemail para você",
+    "message": "Enviamos um link que trará você de volta ao aplicativo. Certifique-se de abrir seu email no celular.",
+    "mainButtonText": "Abrir aplicativo de email",
+    "resendButtonText": "Reenviar email"
+    "resendingEmailText": "Link do e-mail de verificação reenviado!"
+  },
+
+  "loginResetPassword": {
+    "emailHeader": "Email",
+    "createAccountBtnLabel": "Criar uma nova conta?",
+    "resetPasswordBtnLabel": "Redefinir Senha"
+  },
+  //End of Onboarding Pages
+
+  //Start of Donor User Pages
+  "donorHome": {
+    "donateButton": "Doe Agora",
+    "showAllButton": "Mostrar tudo",
+    "titleMessage": "Sua generosidade pode fazer uma diferença real na vida de pessoas sem-teto.",
+    "recipientTitle": "Beneficiário",
+    "charityTitle": "Instituições de Caridade",
+    "charitySubtitle": "Estamos em parceria com instituições de caridade locais para conectar você com quem precisa.",
+    "howItWorks": "Como funciona",
+    "howItWorksContent": "Unify Giving é comprometido em oferecer a melhor experiência de doação, do início ao fim.",
+    "showMoreButton": "Mostrar Mais",
+    "hello": "Olá",
+    "helloMessage": "Obrigado pelo seu apoio na ajuda às pessoas sem-teto.",
+    "recipientListHeader": "Beneficiários"
+  },
+
+  "charityList": {
+    "searchBar_ToolTip": "Pesquisar",
+    "visitBtnLabel": "Visitar"
+    "messageLabel": "Confira alguns dos excelentes trabalhos dos nossos parceiros de caridade de confiança."
+  },
+
+  "charityLookupRoutes": {
+    "aboutTitle": "Sobre",
+    "recipientsTitle": "Beneficiários"
+  },
+
+  "aboutCharityPage": {
+    "charityWebsiteHeader": "Site",
+    "charityAddressHeader": "Endereço"
+  },
+
+  "donorCharityRecipientsPage": {
+    "donateButton": "Doar"
+  },
+
+  "donationRecipientsList": {
+    "findButton": "Encontre um beneficiário",
+    "donateButton": "Doar",
+    "instruction": "Para doar, você pode tocar diretamente o cartão do beneficiário na rua ou escolher um perfil.",
+    "filterTitle": "Filtros",
+    "location": "Localização",
+    "age": "Idade",
+    "applyBtnLabel": "Aplicar"
+  },
+
+  "donationReviewPage": {
+    "shareLabel": "Compartilhar",
+    "shareMessage": "Olá do Unify Giving. Acabei de doar para ajudar alguém a seguir em frente!",
+    "recipientLabel": "Beneficiário",
+    "transferFeesLabel": "Taxas de Transferência",
+    "fees1Label": "Doação Direta",
+    "fees2Label": "Taxas operacionais da Unify Giving (7%)",
+    "fees3Label": "Custo de processamento de listras",
+    "totalCostLabel": "Custo Total",
+    "writeMessageLabel": "Escrever mensagem (opcional)",
+    "writeMessage_ToolTip": "Escreva algumas palavras de encorajamento",
+    "supportText": "Nossa missão é garantir que os beneficiários recebam 100% da sua doação. Para cobrir os custos dos cartões de débito dos beneficiários e das pulseiras RFID, considere adicionar uma taxa de suporte opcional à sua doação.",
+    "addSupportLabel": "Adicionar Suporte",
+    "customAmount_ToolTip": "Insira o valor personalizado",
+    "selectCardHeader": "Selecione o Cartão",
+    "donateBtnLabel": "Doar",
+    "donationSuccessfulHeader": "SUCESSO",
+    "donationSuccessMessage": "Obrigado! Você acabou de doar $10 para o David e recebeu 30 Créditos Unify.",
+    "homeBtnLabel": "Início"
+    "supportHeaderLabel": "Apoie a Unify Giving"
+  },
+
+  "donationHome": {
+    "monthly": "Mensal",
+    "single": "Única",
+    "custom": "Personalizado",
+    "custom_tooltip": "Insira o valor",
+    "anonymousCheckbox": "Doar Anonimamente",
+    "charityPartner": "Parceiro de Caridade",
+    "visitBtnLabel": "Visitar",
+    "allDonors": "Ver todos os doadores",
+    "howItWorks": "Como funciona",
+    "donateBtnLabel": "Doar"
+  },
+
+  "donationPaymentMethod": {
+    "paymentMethodHeader": "Selecione o Método de Pagamento",
+    "addNewCardHeader": "Adicionar novo cartão",
+    "termsAndConditionsText": "Ao adicionar este cartão você concorda com nossos",
+    "termsAndConditionsLink": "termos e condições",
+    "continueBtnLabel": "Continuar"
+  },
+
+  "donationMessages": {
+    "RecipientSearchBtnLabel": "Encontre um beneficiário",
+    "instructions": "Para doar, você pode tocar diretamente o cartão do beneficiário na rua ou escolher um perfil.",
+    "donateBtnLabel": "Doar",
+    "applyBtnLabel": "Aplicar"
+  },
+
+  "donationAddPaymentCardForm": {
+    "cardNumberLabel": "Número do Cartão",
+    "cardNumber_ToolTip": "Insira o Número do Cartão",
+    "cardHolderNameLabel": "Nome do Titular do Cartão",
+    "cardHolderName_ToolTip": "Insira o Nome do Titular do Cartão",
+    "expiryDataLabel": "Data de Expiração",
+    "cvvLabel": "CVV",
+    "continueBtnLabel": "Continuar"
+  },
+
+"Impact": {
+    "amountOfCharitiesHeader": "parceiros de caridade em todo o ",
+    "countryChoice": "Selecione o país",
+    "beneficiariesCountTitle": "Número de Beneficiários",
+    "imageMessage1": "A sua doação pode trazer esperança ",
+    "imageMessage2": "e mudar a vida das pessoas sem-abrigo, fornecendo-lhes abrigo, comida e apoio no seu caminho para um futuro melhor.",
+    "witnessTitle": "Testemunhe uma mudança positiva",
+    "witnessMessage": "Acompanhe facilmente as suas contribuições e veja o impacto que causou.",
+    "contributionTitle": "Contribuído este mês",
+    "ReoccurringTitle": "Doações recorrentes",
+    "btnDonateTitle": "Doe agora",
+    "btnContinueTitle":  "Continuar"
+  },
+  //End of Donor User Pages
+
+  //Start of Charity User Pages
+ 
+  "charityUserRecipientUsersList": {
+    "editProfileBtnLabel": "Editar Perfil",
+    "userGreetingLabel": "Olá {{name}}",
+    "userGreetingText": "Bem-vindo de volta, vamos começar a fazer a diferença hoje!",
+    "recipientsHeader": "Beneficiários"
+  },
+
+  "charityRecipientProfileSetup": {
+    "firstNameLabel": "Primeiro Nome",
+    "firstName_ToolTip": "Insira o primeiro nome do beneficiário",
+    "lastNameLabel": "Último Nome",
+    "lastName_ToolTip": "Insira o último nome do beneficiário",
+    "emailLabel": "Email",
+    "email_ToolTip": "Insira o email do beneficiário",
+    "passwordLabel": "Senha",
+    "password_ToolTip": "Insira a senha do beneficiário",
+    "confirmPasswordLabel": "Confirme a Senha do Beneficiário",
+    "confirmPassword_ToolTip": "Por favor, confirme a senha do beneficiário",
+    "cityLabel": "Cidade",
+    "city_ToolTip": "Insira a cidade do beneficiário",
+    "countryLabel": "País",
+    "country_ToolTip": "Insira o país do beneficiário",
+    "storyLabel": "Como você quer que o Unify Giving te ajude?",
+    "story_ToolTip": "Escreva a história do beneficiário",
+    "dob": "Data de Nascimento",
+    "dob_ToolTip": "Insira a data de nascimento do beneficiário (AAAA/MM/DD)",
+    "saveBtnLabel": "Salvar",
+    "saveBtnStatusLabel": "Salvando...",
+    "previewBtnLabel": "Pré-visualizar",
+    "updateFailedMessage": "Atualização do beneficiário falhou.",
+    "btnRetry": "Tentar novamente",
+    "failTitle": "Atualização falhou",
+    "updateSuccessfulMessage": "Informações do beneficiário atualizadas com sucesso",
+    "btnHome": "Início",
+    "successTitle": "Atualização bem-sucedida",
+    "imagesPermissionWarning": "Permissão para acessar a biblioteca de mídia é necessária!"
+  },
+
+  "reviewNewRecipient": {
+    "addRecipientButton": "Adicionar Beneficiário",
+    "storyHeader": "História",
+    "btnHome": "Início",
+    "addedSuccessfullyMsg": "Beneficiário adicionado com sucesso",
+    "successTitle": "Beneficiário Adicionado",
+    "btnEdit": "Editar",
+    "failedMsg": "Falha ao criar novo beneficiário.",
+    "joinedCharityMsg": "Eu entrei nesta instituição de caridade há 3 anos."
+  },
+
+  "recipientHomePage": {
+    "balanceLabel": "Saldo",
+    "transactionsLabel": "Transações"
+  },
+  //End of Recipient User Pages
+
+  //Start of Account Profile Pages
+  "aboutUnifyPage": {
+    "aboutText": "O aplicativo Unify capacita indivíduos sem-teto a receber e gastar doações de forma segura e eficaz. Parceiros de caridade configuram perfis únicos para as pessoas sem-teto e fornecem a elas uma pulseira verde de RFID Unify e um cartão bancário de uso restrito. Doadores podem abrir o app Unify para doar a qualquer indivíduo sem-teto registrado a qualquer momento. Se os doadores virem uma pessoa sem-teto usando a pulseira Unify, podem tocar a pulseira com um smartphone para doar diretamente a essa pessoa.",
+    "transparancyText": "Transparência incomparável"
+  },
+
+  "changePasswordPage": {
+    "oldPasswordLabel": "Senha Antiga",
+    "oldPassword_ToolTip": "Insira sua senha",
+    "invalidPasswordError": "Senha Inválida",
+    "newPasswordLabel": "Nova Senha",
+    "newPassword_ToolTip": "Insira sua nova senha",
+    "confirmNewPasswordLabel": "Confirme a Nova Senha",
+    "confirmNewPassword_ToolTip": "Insira sua nova senha novamente",
+    "passwordsNotMatchingError": "As senhas não coincidem",
+    "savebtnLabel": "Salvar"
+    "passwordRequired": "Por favor, introduza a senha atual",
+    "passwordMinNotMet": "Mínimo de 8 caracteres para a palavra-passe",
+    "passwordMaxReached": "Máximo de 30 caracteres para a palavra-passe",
+    "newPasswordRequired": "Por favor introduza a nova palavra-passe",
+    "newPasswordMinNotMet": "Mínimo de 8 caracteres para a palavra-passe",
+    "newPasswordMaxReached": "Máximo de 30 caracteres para a palavra-passe",
+    "newPasswordNotMatch": "As palavras-passe não correspondem",
+    "updatePasswordSuccessMessage": "Palavra-passe atualizada com sucesso",
+    "updatePasswordSuccessModalTitle": "Sucesso",
+    "updatePasswordSuccessButtonText": "Concluída",
+    "updatePasswordFailedModalTitle": "Erro",
+    "updatePasswordFailedButtonText": "Tentar novamente"
+  },
+
+  "accountIndexOptionsPage": {
+    "settingsBtnLabel": "Configurações",
+    "aboutUnifyGivingBtnLabel": "Sobre o Unify Giving",
+    "termsAndConditionsBtnLabel": "Termos e Condições",
+    "helpAndSupportBtnLabel": "Ajuda e Suporte",
+    "contactUsBtnLabel": "Contate-nos",
+    "logOutBtnLabel": "Sair"
+  },
+
+  "privacySettings": {
+    "notificationBtnLabel": "Notificações",
+    "anonymousDonationsBtnLabel": "Faça doações anonimamente",
+    "hidePhotoBtnLabel": "Ocultar foto do perfil",
+    "hideLocationBtnLabel": "Ocultar localização",
+    "saveBtnLabel": "Salvar"
+  },
+
+  "accountSettingsPage": {
+    "editAccountBtnLabel": "Editar Conta",
+    "privacyBtnLabel": "Privacidade",
+    "changePasswordBtnLabel": "Mudar senha",
+    "deleteAccountBtnLabel": "Excluir Conta",
+    "logOutBtnLabel": "Sair"
+  },
+
+  "deleteAccount": {
+    "deletionValidationHeader": "Excluir sua conta irá:",
+    "warning1": "Excluir suas informações da conta",
+    "warning2": "Excluir sua foto de perfil",
+    "warning3": "Excluir seus dados do Unify Giving",
+    "warning4": "Excluir seu histórico de doações",
+    "passwordHeader": "Insira sua Senha",
+    "password_ToolTip": "Insira sua senha para confirmar",
+    "confirmPasswordHeader": "Confirme a Senha",
+    "confirmPassword_ToolTip": "Insira sua senha novamente",
+    "passwordError": "As senhas não coincidem",
+    "deleteAccountBtnLabel": "Excluir Minha Conta",
+    "cancelBtnLabel": "Cancelar"
+  },
+
+  "confirmationModal": {
+    "confirmAccountDeletionHeader": "Confirmar exclusão da conta",
+    "confirmAccountDeleteMessage": "Tem certeza de que deseja excluir sua conta? Esta ação não pode ser desfeita",
+    "logoutConfirmHeader": "Confirmar saída",
+    "logoutConfirmMessage": "Tem certeza de que deseja sair?",
+    "cancelBtnLabel": "Cancelar",
+    "deleteBtnLabel": "Excluir",
+    "logOutBtnLabel": "Sair"
+  },
+
+  "editUserAccount": {
+    "firstNameHeader": "Primeiro Nome",
+    "lastNameHeader": "Último Nome",
+    "emailHeader": "Email",
+    "emailError": "Este email já está em uso.",
+    "confirmEmailHeader": "Confirme o Email",
+    "confirmEmailError": "Os emails não coincidem",
+    "locationHeader": "Localização",
+    "countryHeader": "País",
+    "saveBtnLabel": "Salvar"
+    "btnSuccess": "Voltar para casa",
+    "successTitle": "Bem-sucedida",
+    "updateSuccessfulMessage": "Alterou a sua\n senha com sucesso.",
+    "btnRetry": "Tentar novamente",
+    "failTitle": "Erro",
+    "updateFailedMessage": "As suas alterações não foram guardadas. Por favor, tente novamente."
+  },
+  //End of Account Profile Pages
+
+  //Start of Global Pages
+  "howItWorks": {
+    "header": "Como funciona",
+    "slides": {
+      "slide1": {
+        "header": "Doações\nsem esforço",
+        "body": "Com apenas alguns toques, você pode fazer uma diferença significativa para indivíduos em situação de rua."
+      },
+      "slide2": {
+        "header": "Processamento\nseguro",
+        "body": "Nosso parceiro bancário confiável processa as doações com segurança e rapidamente direciona para quem precisa."
+      },
+      "slide3": {
+        "header": "Monitoramento\nresponsável",
+        "body": "Os cartões Unify são exclusivamente projetados para a compra de bens essenciais, garantindo gastos responsáveis."
+      }
+    }
+  },
+  //End of Global Pages
+
+  //Start of Business Pages
+  "businessHome": {
+    "transactionAmountHeader": "Insira o Total da Compra",
+    "posTransactionHeader": "Insira o Número da Transação POS",
+    "newSaleButtonText": "Adicionar Nova Venda"
+  }
+  //End of Business Pages
+}

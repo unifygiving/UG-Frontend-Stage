@@ -1,0 +1,31 @@
+//Colours chosen by Matt and design team
+//To be used by specific elements in each screen throughout the app.
+
+export const COLOURS = {
+    primaryMain: '#6200EE',
+    primaryBorder: '#CE97FD',
+    primarySurface: '#FAF4FE',
+    secondaryMain: '#B5F456',
+    neutral10: '#F5F2F9',
+    neutral20: '#E8E3EF',
+    neutral30: '#D5CDE0',
+    neutral40: '#A497B6',
+    neutral60: '#564A67',
+    neutral50: '#766889',
+    neutral70: '#433753',
+    neutral80: '#2B203A',
+    neutral90: '#1E1729',
+    customText: '#1E1729',
+    additionalText: '#60576B',
+    customBorderColour: '#A497B6',
+    placeholderColour: '#766889',
+    successColour: '#89D813',
+    white: '#FFF',
+    errorColour: '#FF6030',
+    errorTextColour: '#7A090F',
+    borderBtnAccount: '#E8E3EF',
+    shadowColor: 'rgba(0, 0, 0, 0.12)',
+    borderBtnCancel: '#FFD1AC',
+    shades0: '#FFFFFF',
+    shades10: '#000000',
+};

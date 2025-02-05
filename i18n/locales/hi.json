@@ -1,0 +1,365 @@
+{
+  "onboardingRoutes": {
+    "loginPageHeader": "Unify mein login karein",
+    "registrationPageHeader": "Unify mein panjikaran karein",
+    "resetPassword": "Password reset karein"
+  },
+
+  "donorUserRoutes": {
+    "donorHomeBottomTabLabel": "Ghar",
+    "impactBottomTabLabel": "Prabhav",
+    "donationStartPageHeader": "Daan karein",
+    "donationStartBottomTabLabel": "Daan karein",
+    "donationHistoryBottomTabLabel": "Mere Daan",
+    "donationHistoryPageHeader": "Mere Daan",
+    "donorProfileBottomTabLabel": "Khata",
+    "donationHomePageHeader": "Labharthi",
+    "initalPaymentMethodPageHeader": "Daan karein",
+    "donationSummaryPageHeader": "Daan Saaransh",
+    "listOfCharitiesPageHeader": "Daan Sansthaayein",
+    "addCardDetailsPageHeader": "Card Vivaran Darj Karein",
+    "howItWorksPageHeader": "Yeh kaise kaam karta hai"
+  },
+
+  "charityRoutes": {
+    "charityRecipientsHomeBottomTabLabel": "Labharthi",
+    "addRecipientBottomTabLabel": "Labharthi Jodein",
+    "addRecipientPageHeader": "Labharthi Jodein",
+    "reviewNewRecipientPageHeader": "Labharthi ka Samiksha karein",
+    "editRecipientPageHeader": "Labharthi ko Sanshodhit karein",
+    "charityProfileBottomTabLabel": "Khata"
+  },
+
+  "recipientRoutes": {
+    "homePageHeader": "Ghar",
+    "homePageTabLabel": "Ghar",
+    "supportersPageHeader": "Samarthak",
+    "supportersTabLabel": "Samarthak",
+    "profileTabLabel": "Parichay"
+  },
+
+  "businessUserRoutes": {},
+
+  "titlePage": {
+    "loginBtnText": "Login karein",
+    "registerBtnText": "Email ke saath jodein",
+    "hasAccountQuestion": "Kya aapke paas khata hai?",
+    "slides": {
+      "slide1": {
+        "header": "Be-misaal\nparadarshita",
+        "body": "100% daan labharthiyon tak pahunchta hai. Aavashyak vasthon par pramanit kharch. Paradarshita profile aur seemit payment card ke madhyam se bharosa bana hai."
+      },
+      "slide2": {
+        "header": "Seedha\nprabhav",
+        "body": "Donors ko zindagi badalne mein jodta hai. Sthaniya daan sansthao ke sath surakshit bhaagidari zarooratmandon ki zindagi mein spasht farak laati hai."
+      },
+      "slide3": {
+        "header": "Zindagi badalne wale\nsampark",
+        "body": "Donors aur kamzor vyaktiyon ke beech antar ko paar karein. Surakshit profile aur seemit payment cards ke madhyam se seedha prabhav dalein."
+      }
+    }
+  },
+
+  "loginPage": {
+    "emailHeader": "Email",
+    "email_toolkit": "Apna email pata darj karein",
+    "passwordHeader": "Password",
+    "password_toolkit": "Apna password darj karein",
+    "newAccountBtn": "Naya khata banayein?",
+    "nonExistingAccountMessage": "Humne is email ko pehchaana nahi.",
+    "loginBtnText": "Login karein",
+    "invalidPassword": "Amanya password",
+    "forgottenPassword": "Password bhool gaye?"
+  },
+
+  "registerPage": {
+    "firstname": "Pehla Naam",
+    "firstname_tooltip": "Apna pehla naam darj karein",
+    "lastname": "Aakhri Naam",
+    "lastname_tooltip": "Apna aakhri naam darj karein",
+    "city": "Sheher",
+    "city_tooltip": "Apna sheher darj karein",
+    "country": "Desh",
+    "country_tooltip": "Apna desh darj karein",
+    "email": "Email",
+    "email_tooltip": "Apna email darj karein",
+    "password": "Password",
+    "password_tooltip": "Apna password darj karein",
+    "agree_t&c": "Is khate ko banane par aap hamare saath sahmat hain",
+    "t&c": "Shartein aur Niyam",
+    "register": "Panjikaran"
+  },
+
+  "registerEmailConfirmation": {
+    "title": "Humne aapko ek\n email bheji hai",
+    "message": "Humne ek link bheja hai jo aapko seedha app par wapas le aayega. Apne phone par apna email zaroor kholein.",
+    "mainButtonText": "Email app kholein",
+    "resendButtonText": "Email dobara bhejein"
+  },
+
+  "loginResetPassword": {
+    "emailHeader": "Email",
+    "createAccountBtnLabel": "Naya account banayein?",
+    "resetPasswordBtnLabel": "Password reset karein"
+  },
+
+  "donorHome": {
+    "donateButton": "Abhi Donate Karein",
+    "showAllButton": "Sab dekhein",
+    "titleMessage": "Aapki udarta bina ghar ke logo ki zindagi mein asli farak la sakti hai.",
+    "recipientTitle": "Labharthi",
+    "charityTitle": "Daan Sansthaayein",
+    "charitySubtitle": "Hum sthaniya daan sansthao ke sath aapko zarooratmando se jodne mein madad kar rahe hain.",
+    "howItWorks": "Yeh kaise kaam karta hai",
+    "howItWorksContent": "Unify Giving aapko daan dene ka shandar anubhav pradan karne ke liye pratibaddh hai.",
+    "showMoreButton": "Aur dekhein",
+    "hello": "Namaste",
+    "helloMessage": "Beghar logo ki madad mein aapke samarthan ke liye dhanyavaad.",
+    "recipientListHeader": "Labharthi"
+  },
+
+  "charityList": {
+    "searchBar_ToolTip": "Khojein",
+    "visitBtnLabel": "Jaayein"
+  },
+
+  "charityLookupRoutes": {
+    "aboutTitle": "Varnan",
+    "recipientsTitle": "Labharthi"
+  },
+
+  "aboutCharityPage": {
+    "charityWebsiteHeader": "Website",
+    "charityAddressHeader": "Pata"
+  },
+
+  "donorCharityRecipientsPage": {
+    "donateButton": "Donate"
+  },
+
+  "donationRecipientsList": {
+    "findButton": "Mujhe ek labharthi dhoondh do",
+    "donateButton": "Donate Karein",
+    "instruction": "Donate karne ke liye seedha apna phone recipient card par tap karein ya profile chunein.",
+    "filterTitle": "Filters",
+    "location": "Sthaan",
+    "age": "Umar",
+    "applyBtnLabel": "Lagaayein"
+  },
+
+  "donationReviewPage": {
+    "shareLabel": "Sajha Karein",
+    "shareMessage": "Unify Giving se Namaste. Maine abhi kisi ki madad karne ke liye donate kiya!",
+    "recipientLabel": "Labharthi",
+    "transferFeesLabel": "Transfer Fees",
+    "fees1Label": "Seedha daan",
+    "fees2Label": "Unify Giving Operating fees (5%)",
+    "fees3Label": "Payment Processing Cost",
+    "fees4Label": "Daan Partner ke liye (2%)",
+    "totalCostLabel": "Kul Kharcha",
+    "writeMessageLabel": "Sandesh likhein",
+    "writeMessage_ToolTip": "Kuch utsaahvardhak shabd likhein",
+    "supportText": "Hamare lakshya hai ki labharthi aapke 100% daan praapt karein. Recipient debit card aur RFID wristbands ke kharch ko pura karne ke liye, kirpya daan mein ek vikalpik support shulk jodne par vichar karein.",
+    "addSupportLabel": "Support jodein",
+    "customAmount_ToolTip": "Apni rakam darj karein",
+    "selectCardHeader": "Card chunein",
+    "donateBtnLabel": "Donate",
+    "donationSuccessfulHeader": "SAFALTAAPOORNA",
+    "donationSuccessMessage": "Aap bahut hi achhe hain, aapne David ko abhi $10 donate kiya aur 30 Unify Credits praapt kiye hain.",
+    "homeBtnLabel": "Home"
+  },
+
+  "donationHome": {
+    "monthly": "Mahinewar",
+    "single": "Ek Baar",
+    "custom": "Khaas",
+    "custom_tooltip": "Apna amount darj karein",
+    "anonymousCheckbox": "Gumnami mein donate karein",
+    "charityPartner": "Daan Partner",
+    "visitBtnLabel": "Jaayein",
+    "allDonors": "Sabhi donors dekhein",
+    "howItWorks": "Yeh kaise kaam karta hai",
+    "donateBtnLabel": "Donate Karein"
+  },
+
+  "donationPaymentMethod": {
+    "paymentMethodHeader": "Payment Method chunein",
+    "addNewCardHeader": "Naya card jodein",
+    "termsAndConditionsText": "Is card ko jodne par aap hamare shartein aur niyam se sahmat hain",
+    "termsAndConditionsLink": "Shartein aur Niyam",
+    "continueBtnLabel": "Jaari rakhein"
+  },
+
+  "donationMessages": {
+    "RecipientSearchBtnLabel": "Mujhe ek labharthi dhoondh do",
+    "instructions": "Donate karne ke liye seedha apna phone recipient card par tap karein ya profile chunein.",
+    "donateBtnLabel": "Donate",
+    "applyBtnLabel": "Lagaayein"
+  },
+
+  "donationAddPaymentCardForm": {
+    "cardNumberLabel": "Card Number",
+    "cardNumber_ToolTip": "Apna Card Number darj karein",
+    "cardHolderNameLabel": "Card Holder ka Naam",
+    "cardHolderName_ToolTip": "Card Holder ka Naam darj karein",
+    "expiryDataLabel": "Antim Tithi",
+    "cvvLabel": "CVV",
+    "continueBtnLabel": "Jaari rakhein"
+  },
+
+  "charityUserRecipientUsersList": {
+    "editProfileBtnLabel": "Profile Edit Karein",
+    "userGreetingLabel": "Namaste {{name}}",
+    "userGreetingText": "Swagat hai wapas, aaj se farak banana shuru karein!",
+    "recipientsHeader": "Labharthi"
+  },
+
+  "charityRecipientProfileSetup": {
+    "firstNameLabel": "Pehla Naam",
+    "firstName_ToolTip": "Labharthi ka pehla naam darj karein",
+    "lastNameLabel": "Aakhri Naam",
+    "lastName_ToolTip": "Labharthi ka aakhri naam darj karein",
+    "emailLabel": "Email",
+    "email_ToolTip": "Labharthi ka email darj karein",
+    "passwordLabel": "Password",
+    "password_ToolTip": "Labharthi ka password darj karein",
+    "confirmPasswordLabel": "Labharthi ka Password Confirm Karein",
+    "confirmPassword_ToolTip": "Kripya Labharthi ka password confirm karein",
+    "cityLabel": "Sheher",
+    "city_ToolTip": "Labharthi ka sheher darj karein",
+    "countryLabel": "Desh",
+    "country_ToolTip": "Labharthi ka desh darj karein",
+    "storyLabel": "Unify Giving aapki madad kaise kar sakta hai?",
+    "story_ToolTip": "Labharthi ki kahani likhein",
+    "dob": "Janm Tithi",
+    "dob_ToolTip": "Labharthi ki janm tithi darj karein (YYYY/MM/DD)",
+    "saveBtnLabel": "Save",
+    "saveBtnStatusLabel": "Save ho raha hai...",
+    "previewBtnLabel": "Preview",
+    "updateFailedMessage": "Labharthi ka update asafal raha.",
+    "btnRetry": "Dubara Koshish Karein",
+    "failTitle": "Update asafal raha",
+    "updateSuccessfulMessage": "Labharthi ki jaankari safalta se update ho gayi",
+    "btnHome": "Ghar",
+    "successTitle": "Update Safalta Poorvak",
+    "imagesPermissionWarning": "Media library ka access permission chahiye!"
+  },
+
+  "reviewNewRecipient": {
+    "addRecipientButton": "Labharthi Jodein",
+    "storyHeader": "Kahani",
+    "btnHome": "Ghar",
+    "addedSuccessfullyMsg": "Labharthi safalta se jod diya gaya",
+    "successTitle": "Labharthi Juda Gaya",
+    "btnEdit": "Edit",
+    "failedMsg": "Naya labharthi banane mein asafalta.",
+    "joinedCharityMsg": "Maine 3 saal pehle is charity mein shamil hua tha."
+  },
+
+  "recipientHomePage": {
+    "balanceLabel": "Balance",
+    "transactionsLabel": "Transactions"
+  },
+
+  "aboutUnifyPage": {
+    "aboutText": "Unify app bina ghar ke vyaktiyon ko surakshit aur prabhavit tareeke se daan praapt karne aur kharch karne mein madad karta hai. Charity partners beghar logo ke liye vishesh profile banate hain aur unhe ek hari Unify RFID wristband aur ek seemit upyog wala Unify bank card dete hain. Donors kisi bhi samay registered vyakti ko daan dene ke liye Unify app khol sakte hain. Agar donor kisi vyakti ko Unify wristband pehne dekhta hai, toh wo smartphone ke madhyam se sidha us vyakti ko daan de sakta hai.",
+    "transparancyText": "Be-misaal Paradarshita"
+  },
+
+  "changePasswordPage": {
+    "oldPasswordLabel": "Purana Password",
+    "oldPassword_ToolTip": "Apna password darj karein",
+    "invalidPasswordError": "Amanya Password",
+    "newPasswordLabel": "Naya Password",
+    "newPassword_ToolTip": "Apna naya password darj karein",
+    "confirmNewPasswordLabel": "Naya Password Confirm Karein",
+    "confirmNewPassword_ToolTip": "Apna naya password dubara darj karein",
+    "passwordsNotMatchingError": "Passwords match nahi kar rahe hain",
+    "savebtnLabel": "Save"
+  },
+
+  "accountIndexOptionsPage": {
+    "settingsBtnLabel": "Settings",
+    "aboutUnifyGivingBtnLabel": "Unify Giving ke baare mein",
+    "termsAndConditionsBtnLabel": "Shartein aur Niyam",
+    "helpAndSupportBtnLabel": "Madad aur Sahayata",
+    "contactUsBtnLabel": "Sampark Karein",
+    "logOutBtnLabel": "Log Out"
+  },
+
+  "privacySettings": {
+    "notificationBtnLabel": "Notifications",
+    "anonymousDonationsBtnLabel": "Donate gumnami mein karein",
+    "hidePhotoBtnLabel": "Profile photo chhupayein",
+    "hideLocationBtnLabel": "Location chhupayein",
+    "saveBtnLabel": "Save"
+  },
+
+  "accountSettingsPage": {
+    "editAccountBtnLabel": "Account Edit Karein",
+    "privacyBtnLabel": "Privacy",
+    "changePasswordBtnLabel": "Password Badlein",
+    "deleteAccountBtnLabel": "Account Delete Karein",
+    "logOutBtnLabel": "Log Out"
+  },
+
+  "deleteAccount": {
+    "deletionValidationHeader": "Aapka account delete karne par:",
+    "warning1": "Aapke account ki jankari delete ho jayegi",
+    "warning2": "Aapki profile photo delete ho jayegi",
+    "warning3": "Unify Giving se aapka data delete ho jayega",
+    "warning4": "Aapka daan itihaas delete ho jayega",
+    "passwordHeader": "Apna Password Darj Karein",
+    "password_ToolTip": "Password confirm karne ke liye darj karein",
+    "confirmPasswordHeader": "Password Confirm Karein",
+    "confirmPassword_ToolTip": "Apna password dubara darj karein",
+    "passwordError": "Password match nahi kar raha",
+    "deleteAccountBtnLabel": "Mera Account Delete Karein",
+    "cancelBtnLabel": "Cancel"
+  },
+
+  "confirmationModal": {
+    "confirmAccountDeletionHeader": "Account delete ko confirm karein",
+    "confirmAccountDeleteMessage": "Kya aap apna account delete karna chahte hain? Is action ko wapas nahi liya ja sakta",
+    "logoutConfirmHeader": "Log Out ko confirm karein",
+    "logoutConfirmMessage": "Kya aap log out karna chahte hain?",
+    "cancelBtnLabel": "Cancel",
+    "deleteBtnLabel": "Delete",
+    "logOutBtnLabel": "Log Out"
+  },
+
+  "editUserAccount": {
+    "firstNameHeader": "Pehla Naam",
+    "lastNameHeader": "Aakhri Naam",
+    "emailHeader": "Email",
+    "emailError": "Ye email pehle se upyog mein hai.",
+    "confirmEmailHeader": "Email Confirm Karein",
+    "confirmEmailError": "Emails match nahi kar rahe hain",
+    "locationHeader": "Sthaan",
+    "saveBtnLabel": "Save"
+  },
+
+  "howItWorks": {
+    "header": "Yeh kaise kaam karta hai",
+    "slides": {
+      "slide1": {
+        "header": "Aasaan\ndaan",
+        "body": "Kuch hi taps ke sath, aap bina ghar ke vyaktiyon par maayne rakhta asar daal sakte hain."
+      },
+      "slide2": {
+        "header": "Surakshit\nprakriya",
+        "body": "Hamare vishwasniya banking partner surakshit tareeke se donations ko prakriya mein laate hain aur jaldi bina ghar ke vyaktiyon tak pahunchate hain."
+      },
+      "slide3": {
+        "header": "Zimmedar\nniyantran",
+        "body": "Unify cards kewal aavashyak vastuon aur sevaon ki kharidari ke liye hi design kiye gaye hain, jo zimmedarana kharch ko sunishchit karte hain."
+      }
+    }
+  },
+
+  "businessHome": {
+    "transactionAmountHeader": "Kharid ka Total Darj Karein",
+    "posTransactionHeader": "POS Transaction Number Darj Karein",
+    "newSaleButtonText": "Nayi Bikri Jodein"
+  }
+}
