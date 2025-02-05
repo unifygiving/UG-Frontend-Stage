@@ -1,4 +1,8 @@
-# UnifyGiving Front End app
+<p align="center">
+<img src="https://unifygiving.com/wp-content/uploads/2024/04/logo.svg" />
+</p>
+
+# UnifyGiving Front End app (Staging and Development)
 
 <p>This front end app is built with React Native and Expo to access Node.js api and a React admin dashboard web app.</p>
 <br />
@@ -45,7 +49,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/unifygiving/mobile-app.git
+   git clone https://github.com/unifygiving/UG-Frontend-Stage.git
    ```
 2. Install NPM packages
    ```sh
